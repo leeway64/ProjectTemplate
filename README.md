@@ -12,4 +12,4 @@ Collected here are important files that can be used in any programming project o
 
 ## Unit Tests
 
-## Third-Party Tools
+## Third-Party Software
